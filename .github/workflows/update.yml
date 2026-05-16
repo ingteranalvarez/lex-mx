@@ -1,0 +1,68 @@
+name: Actualización diaria
+
+# Corre todos los días. Scrapea el índice de la Cámara de Diputados,
+# reconvierte solo las leyes cuya "última reforma" cambió, y hace un
+# commit ATÓMICO por ley reformada (así `git log -- leyes/X.md` es la
+# historia de reformas de esa ley). La mayoría de los días no hay cambios
+# y el job termina sin commitear.
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 12:00 UTC ≈ 06:00 GDL
+  workflow_dispatch: {}     # permite correrlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar poppler (pdftotext)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scrapear índice
+        run: python3 pipeline/scrape_index.py
+
+      - name: Convertir leyes reformadas
+        run: python3 pipeline/build.py
+
+      - name: Commit atómico por ley reformada
+        run: |
+          set -euo pipefail
+          git config user.name  "lex-mx-bot"
+          git config user.email "bot@users.noreply.github.com"
+
+          changed=$(git status --porcelain leyes | awk '{print $2}')
+          if [ -z "$changed" ]; then
+            echo "Sin reformas hoy. Nada que commitear."
+            # Aun así persistir catalog/state si el índice movió fechas.
+            if ! git diff --quiet catalog.json state.json; then
+              git add catalog.json state.json
+              git commit -m "chore: refresca catálogo/estado (sin reformas de texto)"
+              git push
+            fi
+            exit 0
+          fi
+
+          for f in $changed; do
+            slug=$(basename "$f" .md)
+            ref=$(grep -m1 '^ultima_reforma:' "$f" | sed 's/.*"\(.*\)".*/\1/')
+            git add "$f"
+            git commit -m "reforma: ${slug} — DOF ${ref}"
+          done
+
+          # Catálogo y estado en un commit de mantenimiento aparte.
+          git add catalog.json state.json errors.log 2>/dev/null || true
+          git commit -m "chore: actualiza catálogo y estado" || true
+          git push

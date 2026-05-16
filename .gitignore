@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.venv/
+
+# Internos — no publicar
+CLAUDE.md
+docs/
+errors.log
