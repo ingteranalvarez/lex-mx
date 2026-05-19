@@ -20,13 +20,30 @@ este repositorio, sigue este protocolo:
    URL: `https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/catalog.json`
 
 2. **Identifica la(s) ley(es) relevante(s)** buscando en `catalog.json` por
-   título o sigla. Para casos fiscales mexicanos típicos:
+   título o sigla. Mapeo de temas comunes a leyes:
+   - **Principios constitucionales tributarios** (generalidad, proporcionalidad,
+     equidad, legalidad, obligatoriedad) → CPEUM Art. 31 fracc. IV + CFF Art. 1
    - IVA → LIVA
    - ISR → LISR
    - IEPS (refrescos, alcohol, tabaco, combustibles) → LIEPS
-   - Procedimiento, infracciones, plazos, notificaciones → CFF
-   - Razón de negocio / simulación → CFF Art. 5-A
-   - Constitución → CPEUM
+   - Procedimiento fiscal, infracciones, plazos, notificaciones, recursos → CFF
+   - Razón de negocio / simulación / sustancia económica → CFF Art. 5-A
+   - Constitución (garantías, derechos humanos, división de poderes) → CPEUM
+   - Juicio de amparo → LAmp + CPEUM Arts. 103 y 107
+   - Trabajo, salario, despido, IMSS → LFT
+   - Sociedades mercantiles → LGSM
+   - Títulos de crédito (cheque, pagaré, letra) → LGTOC
+   - Concursos mercantiles → LCM
+   - Defensa del consumidor → LFPC
+   - Delitos federales → CPF
+   - Procedimiento penal federal → CNPP
+   - Civil federal (contratos, familia federal, sucesiones) → CCF
+   - Procedimiento civil federal → CFPC
+   - Comercio, actos mercantiles → CCom
+   - Propiedad industrial (marcas, patentes) → LFPPI
+   - Derechos de autor → LFDA
+   - Protección de datos personales (particulares) → LFPDPPP
+   - Aduanas, importación, exportación → LAdua + LCE
 
 3. **Lee la ley** desde su URL cruda:
 
