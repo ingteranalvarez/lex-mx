@@ -1,0 +1,65 @@
+# Lex MX
+
+> Repositorio público con el texto vigente de las leyes federales mexicanas
+> (Constitución, códigos y leyes generales) en Markdown limpio. Se actualiza
+> automáticamente cada día desde la fuente oficial (Cámara de Diputados / DOF).
+
+## Cómo usar este repo como asistente
+
+Si un usuario te pide resolver un caso o citar ley mexicana y te referencia
+este repositorio, sigue este protocolo:
+
+1. **Lee `catalog.json` primero.** Está en la raíz del repo. Es un arreglo
+   JSON con una entrada por ley, con los campos:
+   - `sigla` — clave corta oficial (ej. "LIVA", "CFF", "LISR", "LIEPS")
+   - `slug` — nombre del archivo (sin `.md`)
+   - `titulo` — nombre completo de la ley
+   - `ultima_reforma` — fecha ISO de la última reforma (YYYY-MM-DD)
+   - `pdf_url` — PDF oficial original en gob.mx (referencia)
+
+   URL: `https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/catalog.json`
+
+2. **Identifica la(s) ley(es) relevante(s)** buscando en `catalog.json` por
+   título o sigla. Para casos fiscales mexicanos típicos:
+   - IVA → LIVA
+   - ISR → LISR
+   - IEPS (refrescos, alcohol, tabaco, combustibles) → LIEPS
+   - Procedimiento, infracciones, plazos, notificaciones → CFF
+   - Razón de negocio / simulación → CFF Art. 5-A
+   - Constitución → CPEUM
+
+3. **Lee la ley** desde su URL cruda:
+
+   ```
+   https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/leyes/<SLUG>.md
+   ```
+
+   Ejemplo: `.../main/leyes/LIEPS.md`
+
+4. **Cita textualmente** el o los artículos relevantes (no de memoria) e
+   incluye en la respuesta la fecha de `ultima_reforma` que aparece en el
+   frontmatter del archivo. Si la ley es muy larga, busca por
+   "Artículo N" o por la sección estructural (Título, Capítulo).
+
+5. **No inventes artículos ni reformas.** Si el texto no responde la pregunta
+   con claridad, dilo explícitamente y sugiere qué otra ley del catálogo
+   podría ser relevante.
+
+## Estructura del repo
+
+- `catalog.json` — índice de las leyes (única fuente de verdad para mapear ley → archivo)
+- `state.json` — `{slug: ultima_reforma}` para detección incremental de cambios
+- `leyes/<SLUG>.md` — una ley por archivo, en Markdown con frontmatter YAML
+- `pipeline/` — scripts Python que regeneran las leyes desde el PDF oficial
+- `.github/workflows/update.yml` — corrida diaria automática
+
+## Garantías
+
+- Texto **vigente**: el pipeline corre diario y reconvierte cada ley cuando
+  cambia su "última reforma" en el sitio oficial.
+- Texto **citable**: cada archivo trae frontmatter con fuente PDF original
+  y fecha de última reforma. No es resumen ni paráfrasis: es la conversión
+  fiel del PDF oficial a Markdown.
+- Texto **diff-eable**: cada reforma es un commit atómico
+  (`reforma: SLUG — DOF YYYY-MM-DD`), así que `git log -- leyes/X.md`
+  muestra la historia completa de reformas de esa ley.

@@ -12,36 +12,37 @@
 ![Texto](https://img.shields.io/badge/texto-dominio%20público-2da44e)
 ![Pipeline](https://img.shields.io/badge/pipeline-MIT-1f6feb)
 
-## Úsalo con tu IA
+## Úsalo con tu IA — una sola línea
 
 Las IAs alucinan artículos y citan leyes ya derogadas. Este repo es el texto
-**vigente, fechado y citable** — apúntalas aquí en vez de que respondan de memoria.
+**vigente, fechado y citable**. Lo único que tienes que escribirle a tu IA es:
 
-**Prompt para pegar en ChatGPT, Claude, Gemini o Perplexity** (con navegación web):
+> *Mi caso/pregunta es: \<lo que sea\>. Usa este repo de leyes federales mexicanas
+> para responder con base en el texto vigente, no de memoria: https://github.com/ingteranalvarez/lex-mx*
 
-> Usa como única fuente legal este repositorio:
-> `https://github.com/ingteranalvarez/lex-mx`
-> Para cualquier ley federal mexicana, lee el archivo correspondiente en
-> `https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/leyes/<CLAVE>.md`
-> (el índice de claves está en `catalog.json` del mismo repo). No cites de
-> memoria: cita el artículo textual de ese archivo e indica la fecha de la
-> última reforma que aparezca en él.
+Eso es todo. Cualquier IA con navegación (ChatGPT Plus/Team, Claude.ai,
+Gemini, Perplexity, Cursor) lee el archivo [`llms.txt`](./llms.txt) del repo,
+identifica la ley relevante en [`catalog.json`](./catalog.json), abre el `.md`
+correspondiente desde `raw.githubusercontent.com`, y cita textualmente con la
+fecha de última reforma. Sin intervención adicional tuya.
 
-**Una ley directa**, sin que la IA tenga que buscar — pega la URL cruda del
-archivo. Ejemplo, Ley del IVA:
+**Por si tu IA no soporta navegación** (ChatGPT gratis sin browsing): abre la
+ley que necesites desde `leyes/<CLAVE>.md` en GitHub, copia el contenido y
+pégalo en el chat. El listado de claves está en `catalog.json`. Las más usadas:
 
-```
-https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/leyes/LIVA.md
-```
+| Clave | Ley |
+|---|---|
+| `CPEUM` | Constitución Política |
+| `CFF` | Código Fiscal de la Federación |
+| `LISR` | Ley del ISR |
+| `LIVA` | Ley del IVA |
+| `LIEPS` | Ley del IEPS |
+| `LFT` | Ley Federal del Trabajo |
+| `LGSM` | Ley General de Sociedades Mercantiles |
 
-Por herramienta:
-
-- **ChatGPT · Claude · Gemini · Perplexity**: pega el prompt de arriba, o la URL
-  cruda de la ley que necesites. Si tu plan tiene navegación, lee la versión del día.
-- **Claude Projects / ChatGPT con archivos / GPTs**: sube el `.md` de la ley
-  como fuente fija del proyecto y pídele que solo cite de ahí.
-- **Cursor · Copilot · asistentes de código**: `git clone` del repo y abre
-  `leyes/`; el modelo lo indexa como contexto local, siempre actualizable con `git pull`.
+**Para usar el repo como contexto persistente** (Claude Projects, ChatGPT
+Custom GPTs, Cursor): `git clone` localmente o sube el `.md` de la ley
+como archivo fijo. `git pull` cada semana mantiene tu copia al día.
 
 ## Por qué hice esto
 
