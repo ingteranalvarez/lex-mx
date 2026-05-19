@@ -12,6 +12,37 @@
 ![Texto](https://img.shields.io/badge/texto-dominio%20público-2da44e)
 ![Pipeline](https://img.shields.io/badge/pipeline-MIT-1f6feb)
 
+## Úsalo con tu IA
+
+Las IAs alucinan artículos y citan leyes ya derogadas. Este repo es el texto
+**vigente, fechado y citable** — apúntalas aquí en vez de que respondan de memoria.
+
+**Prompt para pegar en ChatGPT, Claude, Gemini o Perplexity** (con navegación web):
+
+> Usa como única fuente legal este repositorio:
+> `https://github.com/ingteranalvarez/lex-mx`
+> Para cualquier ley federal mexicana, lee el archivo correspondiente en
+> `https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/leyes/<CLAVE>.md`
+> (el índice de claves está en `catalog.json` del mismo repo). No cites de
+> memoria: cita el artículo textual de ese archivo e indica la fecha de la
+> última reforma que aparezca en él.
+
+**Una ley directa**, sin que la IA tenga que buscar — pega la URL cruda del
+archivo. Ejemplo, Ley del IVA:
+
+```
+https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/leyes/LIVA.md
+```
+
+Por herramienta:
+
+- **ChatGPT · Claude · Gemini · Perplexity**: pega el prompt de arriba, o la URL
+  cruda de la ley que necesites. Si tu plan tiene navegación, lee la versión del día.
+- **Claude Projects / ChatGPT con archivos / GPTs**: sube el `.md` de la ley
+  como fuente fija del proyecto y pídele que solo cite de ahí.
+- **Cursor · Copilot · asistentes de código**: `git clone` del repo y abre
+  `leyes/`; el modelo lo indexa como contexto local, siempre actualizable con `git pull`.
+
 ## Por qué hice esto
 
 Estudio una maestría y llevo derecho fiscal. Trabajando casos me la pasaba
