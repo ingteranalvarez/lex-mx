@@ -277,6 +277,9 @@ def main() -> int:
     state = load_json(STATE, {})
     LEYES.mkdir(exist_ok=True)
 
+    # Catálogo completo (antes de filtros) para el guardarraíl de huérfanos.
+    full_catalog = catalog
+
     only = {s.strip() for s in args.only.split(",") if s.strip()}
     if only:
         catalog = [c for c in catalog if c["sigla"] in only or c["slug"] in only]
@@ -311,11 +314,39 @@ def main() -> int:
                 errors.append(msg)
                 print(f"  ✗ {slug}  {e}", file=sys.stderr)
 
+    # ───── Guardarraíl: limpiar huérfanos ──────────────────────────────────
+    # Si una ley desaparece del índice oficial (cambio de slug, derogación,
+    # renombramiento), su .md y su entrada en state quedan huérfanos: nunca
+    # aparecen en catalog.json pero ensucian el repo. Aquí los borramos.
+    #
+    # Salvaguardas para no destruir datos por un scrape parcial:
+    #   1) Solo corre en ejecuciones COMPLETAS (sin --only y sin --limit).
+    #   2) Solo corre si el catálogo trae >=200 leyes (sanity floor; normal
+    #      ~316). Por debajo asumimos que el scrape falló y se aborta.
+    purged_md = purged_state = 0
+    if not only and not args.limit:
+        if len(full_catalog) < 200:
+            print(f"⚠ Guardarraíl SALTADO: catálogo trae {len(full_catalog)} "
+                  f"leyes (<200). Posible scrape parcial; no se purgan huérfanos.",
+                  file=sys.stderr)
+        else:
+            valid_slugs = {c["slug"] for c in full_catalog}
+            for md in LEYES.glob("*.md"):
+                if md.stem not in valid_slugs:
+                    md.unlink()
+                    purged_md += 1
+                    print(f"  ↯ huérfano borrado: {md.name}")
+            for slug in list(state.keys()):
+                if slug not in valid_slugs:
+                    del state[slug]
+                    purged_state += 1
+
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2,
                                 sort_keys=True) + "\n", encoding="utf-8")
     if errors:
         ERRORS.write_text("\n".join(errors) + "\n", encoding="utf-8")
-    print(f"\nconvertidas={done}  sin-cambio={skipped}  fallidas={failed}")
+    print(f"\nconvertidas={done}  sin-cambio={skipped}  fallidas={failed}"
+          f"  huérfanos-purgados={purged_md}md/{purged_state}state")
     return 0
 
 
