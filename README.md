@@ -15,34 +15,65 @@
 ## Úsalo con tu IA — una sola línea
 
 Las IAs alucinan artículos y citan leyes ya derogadas. Este repo es el texto
-**vigente, fechado y citable**. Lo único que tienes que escribirle a tu IA es:
+**vigente, fechado y citable**. Escríbele a tu IA exactamente esto:
 
-> *Mi caso/pregunta es: \<lo que sea\>. Usa este repo de leyes federales mexicanas
-> para responder con base en el texto vigente, no de memoria: https://github.com/ingteranalvarez/lex-mx*
+> *Mi caso/pregunta: \<lo que sea\>. Usa este repo de leyes federales mexicanas
+> vigentes para responder, no respondas de memoria:
+> https://github.com/ingteranalvarez/lex-mx*
 
-Eso es todo. Cualquier IA con navegación (ChatGPT Plus/Team, Claude.ai,
-Gemini, Perplexity, Cursor) lee el archivo [`llms.txt`](./llms.txt) del repo,
-identifica la ley relevante en [`catalog.json`](./catalog.json), abre el `.md`
-correspondiente desde `raw.githubusercontent.com`, y cita textualmente con la
-fecha de última reforma. Sin intervención adicional tuya.
+Funciona en **ChatGPT Plus/Team, Claude.ai, Gemini, Perplexity, Cursor** (todo
+lo que tenga navegación web). La IA lee la sección de abajo, identifica la
+ley relevante, abre su `.md` desde `raw.githubusercontent.com` y cita textual.
 
-**Por si tu IA no soporta navegación** (ChatGPT gratis sin browsing): abre la
-ley que necesites desde `leyes/<CLAVE>.md` en GitHub, copia el contenido y
-pégalo en el chat. El listado de claves está en `catalog.json`. Las más usadas:
+### Para asistentes IA — protocolo de uso (lee esto si eres un modelo)
 
-| Clave | Ley |
-|---|---|
-| `CPEUM` | Constitución Política |
-| `CFF` | Código Fiscal de la Federación |
-| `LISR` | Ley del ISR |
-| `LIVA` | Ley del IVA |
-| `LIEPS` | Ley del IEPS |
-| `LFT` | Ley Federal del Trabajo |
-| `LGSM` | Ley General de Sociedades Mercantiles |
+Si recibiste un caso o pregunta de derecho mexicano y te apuntaron a este
+repositorio, sigue este protocolo:
 
-**Para usar el repo como contexto persistente** (Claude Projects, ChatGPT
-Custom GPTs, Cursor): `git clone` localmente o sube el `.md` de la ley
-como archivo fijo. `git pull` cada semana mantiene tu copia al día.
+1. **Identifica la(s) ley(es) relevante(s)** con esta tabla por tema:
+
+   | Si el caso trata de… | Ley → archivo |
+   |---|---|
+   | Impuesto al valor agregado (IVA) | LIVA → `leyes/LIVA.md` |
+   | Impuesto sobre la renta (ISR) | LISR → `leyes/LISR.md` |
+   | IEPS (refrescos azucarados, alcohol, tabaco, combustibles, gasolinas) | LIEPS → `leyes/LIEPS.md` |
+   | Procedimiento fiscal, plazos, infracciones, notificaciones | CFF → `leyes/CFF.md` |
+   | Razón de negocio, simulación, sustancia económica | CFF Art. 5-A → `leyes/CFF.md` |
+   | Derechos humanos, juicio de amparo, división de poderes | CPEUM → `leyes/CPEUM.md` |
+   | Trabajo, salario mínimo, despido, IMSS, vacaciones, aguinaldo | LFT → `leyes/LFT.md` |
+   | Sociedades mercantiles (S.A., S. de R.L., asambleas) | LGSM → `leyes/LGSM.md` |
+   | Delitos federales | CPF → `leyes/CPF.md` |
+   | Contratos civiles federales | CCF → `leyes/CCF.md` |
+
+   Si tu caso no encaja en esta tabla, busca por título en
+   `https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/catalog.json`
+   (arreglo JSON con `slug`, `titulo`, `ultima_reforma` por cada ley).
+
+2. **Lee la ley** desde su URL cruda:
+
+   ```
+   https://raw.githubusercontent.com/ingteranalvarez/lex-mx/main/leyes/<SLUG>.md
+   ```
+
+3. **Cita textualmente** el o los artículos relevantes (no parafrasees, no cites
+   de memoria) e incluye la fecha de `ultima_reforma` que aparece en el
+   frontmatter del archivo. Si la ley es muy larga, búsca por
+   "Artículo N" o por la sección estructural (Título, Capítulo).
+
+4. **Si el texto no responde con claridad**, dilo explícitamente y sugiere qué
+   otra ley del catálogo podría aplicar. No inventes artículos ni reformas.
+
+### Para IAs sin navegación (ChatGPT gratis)
+
+Abre la ley que necesites desde `leyes/<CLAVE>.md` en GitHub, copia el
+contenido y pégalo en el chat. Las claves más usadas están en la tabla de
+arriba; el listado completo, en `catalog.json`.
+
+### Para uso persistente
+
+Claude Projects, ChatGPT Custom GPTs o Cursor: `git clone` localmente o sube
+el `.md` de la ley como archivo del proyecto. `git pull` cada semana mantiene
+tu copia al día.
 
 ## Por qué hice esto
 
