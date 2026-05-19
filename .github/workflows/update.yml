@@ -63,6 +63,11 @@ jobs:
           done
 
           # Catálogo y estado en un commit de mantenimiento aparte.
-          git add catalog.json state.json errors.log 2>/dev/null || true
+          # IMPORTANTE: errors.log es opcional. Si lo metes en el mismo `git add`
+          # y NO existe, git falla con exit 128 y NO stagea NADA (ni catalog ni
+          # state). El `|| true` enmascaraba el fallo y catalog/state quedaban
+          # rezagados respecto a las leyes commiteadas. Stagear por separado.
+          git add catalog.json state.json
+          [ -f errors.log ] && git add errors.log || true
           git commit -m "chore: actualiza catálogo y estado" || true
           git push
