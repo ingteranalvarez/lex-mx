@@ -9,3 +9,5 @@ node_modules/
 CLAUDE.md
 docs/
 errors.log
+.lex-pull.log
+.gstack/
