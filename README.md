@@ -103,6 +103,66 @@ Claude Projects, ChatGPT Custom GPTs o Cursor: `git clone` localmente o sube
 el `.md` de la ley como archivo del proyecto. `git pull` cada semana mantiene
 tu copia al día.
 
+## Cuándo este repo ayuda más, cuándo no
+
+Honesto: el valor marginal varía con la herramienta, la pregunta, y cómo le
+escribas el prompt a la IA.
+
+**Donde vale más:**
+- **Trabajos académicos** donde necesitas **citar artículo textual** con fecha
+  de última reforma (no parafrasear de memoria)
+- **Casos con números específicos**: tasas de IEPS de un producto, deducciones
+  LISR del ejercicio, plazos del CFF, montos de la LFT
+- **Comparar el texto antes vs después de una reforma** — el `git diff` por ley
+  no existe en ningún LLM, es el diferenciador real
+- **Reformas recientes** (~últimos 2 años) que el training del LLM no tiene
+- **Construir asistentes legales o RAGs** sobre legislación mexicana
+
+**Donde el repo aporta poco** (porque el LLM ya lo sabe de su training):
+- Preguntas doctrinales generales ("¿qué es la generalidad tributaria?")
+- Conceptos clásicos que están en cualquier manual de fiscal
+- Resúmenes sin necesidad de citación
+
+**Por herramienta:**
+
+| Si usas… | Qué tan bien funciona | Comentario |
+|---|---|---|
+| **Claude.ai** (web, Projects) | Excelente | Fetch web confiable; opción más sólida |
+| **Perplexity** | Excelente | Su core es web search |
+| **Cursor / Copilot** | Excelente | `git clone` y el modelo lo indexa local |
+| **ChatGPT Plus/Team** (con browsing) | Bueno | A veces ChatGPT decide no fetchar y responde de memoria |
+| **ChatGPT gratis** | Marginal | Sin browsing, hay que copiar/pegar el `.md` manualmente |
+
+**Tip crítico:** dale a la IA el prompt completo, no el URL pelón. Un URL solo
+no le dice al modelo que el repo es su única fuente; el modelo se autoriza a
+responder de memoria. El prompt recomendado está más arriba.
+
+## Mantén tu copia local al día
+
+Si clonaste el repo, actualízalo de vez en cuando — las reformas se publican
+casi todos los meses.
+
+**Manual:**
+
+```bash
+cd ~/lex-mx && git pull
+```
+
+**Alias en tu shell** (`.zshrc` o `.bashrc`):
+
+```bash
+alias lexpull='cd ~/lex-mx && git pull && cd -'
+```
+
+**Automatizado — cron diario a las 8 AM:**
+
+```cron
+0 8 * * * cd ~/lex-mx && git pull >/dev/null 2>&1
+```
+
+En macOS, `launchd` es más confiable que cron para tareas que se saltan si la
+máquina está dormida. Pregúntale a tu asistente cómo configurar uno semanal.
+
 ## Por qué hice esto
 
 Estudio una maestría y llevo derecho fiscal. Trabajando casos me la pasaba
