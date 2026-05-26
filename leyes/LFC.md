@@ -3,7 +3,7 @@ type: ley-federal
 sigla: LFC
 slug: LFC
 titulo: "Ley Federal de Cinematografía"
-ultima_reforma: "1992-12-29"
+ultima_reforma: "2026-05-22"
 fuente: "DOF / Cámara de Diputados"
 fuente_pdf: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf
 articulos: 62
@@ -11,7 +11,7 @@ tags: [ley, federal]
 ---
 
 # Ley Federal de Cinematografía
-> Última reforma publicada DOF 29-12-1992
+> Última reforma publicada DOF 22-05-2026
 
 Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de 1992
 TEXTO VIGENTE
