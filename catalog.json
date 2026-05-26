@@ -1096,12 +1096,12 @@
     "ultima_reforma": "2025-04-16"
   },
   {
-    "sigla": "LFC",
-    "slug": "LFC",
-    "titulo": "Ley Federal de Cinematografía",
-    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
-    "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfc.htm",
-    "ultima_reforma": "1992-12-29"
+    "sigla": "LFCA",
+    "slug": "LFCA",
+    "titulo": "Ley Federal de Cine y el Audiovisual",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCA.pdf",
+    "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfca.htm",
+    "ultima_reforma": "2026-05-22"
   },
   {
     "sigla": "LFCE",
@@ -2526,5 +2526,13 @@
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
     "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/rgic.htm",
     "ultima_reforma": "2010-12-24"
+  },
+  {
+    "sigla": "LFC",
+    "slug": "LFC",
+    "titulo": "Ley Federal de Cinematografía",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
+    "ref_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfc.htm",
+    "ultima_reforma": "2026-05-22"
   }
 ]
