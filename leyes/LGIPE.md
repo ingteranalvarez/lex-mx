@@ -3,7 +3,7 @@ type: ley-federal
 sigla: LGIPE
 slug: LGIPE
 titulo: "Ley General de Instituciones y Procedimientos Electorales"
-ultima_reforma: "2024-10-14"
+ultima_reforma: "2026-06-02"
 fuente: "DOF / Cámara de Diputados"
 fuente_pdf: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf
 articulos: 15
@@ -11,7 +11,7 @@ tags: [ley, federal]
 ---
 
 # Ley General de Instituciones y Procedimientos Electorales
-> Última reforma publicada DOF 14-10-2024
+> Última reforma publicada DOF 02-06-2026
 
 Nueva Ley publicada en el Diario Oficial de la Federación el 23 de mayo de 2014
 TEXTO VIGENTE
