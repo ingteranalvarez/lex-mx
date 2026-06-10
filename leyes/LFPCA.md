@@ -3,7 +3,7 @@ type: ley-federal
 sigla: LFPCA
 slug: LFPCA
 titulo: "Ley Federal de Procedimiento Contencioso Administrativo"
-ultima_reforma: "2025-11-14"
+ultima_reforma: "2026-06-09"
 fuente: "DOF / Cámara de Diputados"
 fuente_pdf: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf
 articulos: 112
@@ -11,7 +11,7 @@ tags: [ley, federal]
 ---
 
 # Ley Federal de Procedimiento Contencioso Administrativo
-> Última reforma publicada DOF 14-11-2025
+> Última reforma publicada DOF 09-06-2026
 
 Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre de 2005
 TEXTO VIGENTE
