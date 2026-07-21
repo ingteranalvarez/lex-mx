@@ -6,7 +6,7 @@
 > *All Mexican federal law as clean, AI-ready Markdown — git-versioned and
 > auto-updated daily.*
 
-![Leyes](https://img.shields.io/badge/leyes-316-1f6feb)
+![Leyes](https://img.shields.io/badge/leyes-317-1f6feb)
 ![Actualización](https://img.shields.io/badge/actualización-diaria-2da44e)
 ![Fuente](https://img.shields.io/badge/fuente-DOF%20%2F%20Diputados-555)
 ![Texto](https://img.shields.io/badge/texto-dominio%20público-2da44e)
@@ -180,7 +180,7 @@ que la mantiene **actualizada sola, todos los días**. Esto es el resultado.
 
 ## Qué hay aquí
 
-- **316 leyes y códigos federales vigentes**: la Constitución, todos los
+- **317 leyes y códigos federales vigentes**: la Constitución, todos los
   códigos, las leyes federales y los reglamentos del Congreso.
 - **Una ley por archivo** en [`leyes/`](leyes/), Markdown con estructura
   semántica (`#` ley · `##`/`###` títulos y capítulos · `**Artículo N.-**`).
