@@ -6,7 +6,7 @@ titulo: "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional
 ultima_reforma: "1982-12-27"
 fuente: "DOF / Cámara de Diputados"
 fuente_pdf: https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf
-articulos: 0
+articulos: 3
 tags: [ley, federal]
 ---
 
@@ -32,7 +32,8 @@ DECRETO
 Ley reglamentaria de la fracción XVIII del artículo 73 Constitucional, en lo que se refiere a
 la facultad del Congreso para dictar reglas para determinar el valor relativo de la moneda
 extranjera.
-ARTICULO PRIMERO.- El Banco de México al determinar el valor relativo de la moneda extranjera
+
+**ARTICULO PRIMERO.-** El Banco de México al determinar el valor relativo de la moneda extranjera
 con la nacional, de conformidad con lo previsto en su Ley Orgánica, tomará en consideración como
 reglas generales, además de las existentes, los siguientes factores y criterios:
 a) El equilibrio de la balanza de pagos;
@@ -43,12 +44,14 @@ e) La obtención de divisas requeridas para el pago de los compromisos internaci
 f) El comportamiento de los niveles de precios y de las tasas de interés interno y externo; y
 g) La equidad entre acreedores y deudores de obligaciones denominadas en moneda extranjera,
 pagaderas en el Territorio Nacional.
-ARTICULO SEGUNDO.- La valoración de los factores y criterios contenidos en las reglas del artículo
+
+**ARTICULO SEGUNDO.-** La valoración de los factores y criterios contenidos en las reglas del artículo
 anterior, tendrá por objeto promover el desarrollo equilibrado del país y el aseguramiento de la realización
 de los planes de desarrollo con justicia social.
 
 ## TRANSITORIO
-ARTICULO UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial
+
+**ARTICULO UNICO.-** Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial
 de la Federación.
 
 LEY REGLAMENTARIA DE LA FRACCIÓN XVIII DEL ARTÍCULO 73 CONSTITUCIONAL, EN LO QUE SE REFIERE A LA FACULTAD DEL

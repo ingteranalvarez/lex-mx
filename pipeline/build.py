@@ -135,7 +135,7 @@ HEADING_RULES = [
 # "Artículo 25 Bis.-", "ARTÍCULO PRIMERO.-", "Artículo Único.-".
 ARTICLE_RE = re.compile(
     r"^((?:ART[ÍI]CULO|Art[íi]culo)\s+"
-    r"(?:\d+[ºo°]?(?:[ -][A-Za-z]+)?|[A-ZÁÉÍÓÚ][a-záéíóú]+|[IVXLC]+)"
+    r"(?:\d+[ºo°]?(?:[ -][A-Za-z]+)?|[A-ZÁÉÍÓÚÜÑ]+|[A-ZÁÉÍÓÚÜÑ][a-záéíóúüñ]+|[IVXLC]+)"
     r"\s*\.?\s*-?\s*\.?-?)\s+",
 )
 
