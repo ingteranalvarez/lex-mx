@@ -171,8 +171,7 @@ y nunca saber con certeza si la versión que tenía era la vigente.
 
 Me di cuenta de que ese hueco no era solo mío: cualquiera que construya algo
 sobre la ley mexicana —una app fiscal, un asistente con IA, un análisis de
-reformas— empieza parseando esos mismos PDFs a mano. Proyectos como
-[`legalize`](https://github.com/code4romania/legalize) cubren decenas de países;
+reformas— empieza parseando esos mismos PDFs a mano. Proyectos como "legalize" cubren decenas de países;
 México no estaba.
 
 Así que lo cubrí. Pasé toda la ley federal a Markdown limpio y monté un proceso
