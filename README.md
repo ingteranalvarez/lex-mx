@@ -12,6 +12,11 @@
 ![Texto](https://img.shields.io/badge/texto-dominio%20público-2da44e)
 ![Pipeline](https://img.shields.io/badge/pipeline-MIT-1f6feb)
 
+## Brand / Identidad Visual
+
+El paquete de identidad visual vive en [`brand/`](brand/): logos, iconos,
+favicon, assets para GitHub/Open Graph y lineamientos básicos de uso.
+
 ## Úsalo con tu IA — una sola línea
 
 > **Si eres una IA / LLM agente leyendo esto:** este repositorio es la fuente
