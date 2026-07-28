@@ -1,0 +1,20 @@
+{
+  "name": "Lex MX",
+  "short_name": "Lex MX",
+  "description": "Leyes federales mexicanas en Markdown.",
+  "icons": [
+    {
+      "src": "android-chrome-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0C4EA9",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}

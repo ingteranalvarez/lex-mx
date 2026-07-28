@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="brand/logo-horizontal.png" alt="Lex MX" width="640">
+</p>
+
 # Lex MX 🇲🇽 — Leyes Federales de México en Markdown
 
 > Toda la legislación federal mexicana vigente, en Markdown limpio, versionada
@@ -11,6 +15,11 @@
 ![Fuente](https://img.shields.io/badge/fuente-DOF%20%2F%20Diputados-555)
 ![Texto](https://img.shields.io/badge/texto-dominio%20público-2da44e)
 ![Pipeline](https://img.shields.io/badge/pipeline-MIT-1f6feb)
+
+## Brand / Identidad Visual
+
+El paquete de identidad visual vive en [`brand/`](brand/): logos, iconos,
+favicon, assets para GitHub/Open Graph y lineamientos básicos de uso.
 
 ## Úsalo con tu IA — una sola línea
 
