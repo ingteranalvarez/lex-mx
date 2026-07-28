@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="brand/logo-horizontal.png" alt="Lex MX" width="640">
+</p>
+
 # Lex MX 🇲🇽 — Leyes Federales de México en Markdown
 
 > Toda la legislación federal mexicana vigente, en Markdown limpio, versionada
