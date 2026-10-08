@@ -3,15 +3,15 @@ type: ley-federal
 sigla: CPEUM
 slug: CPEUM
 titulo: "Constitución Política de los Estados Unidos Mexicanos"
-ultima_reforma: "2026-06-02"
+ultima_reforma: "2026-10-07"
 fuente: "DOF / Cámara de Diputados"
 fuente_pdf: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-articulos: 265
+articulos: 373
 tags: [ley, federal]
 ---
 
 # Constitución Política de los Estados Unidos Mexicanos
-> Última reforma publicada DOF 02-06-2026
+> Última reforma publicada DOF 07-10-2026
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
@@ -9970,7 +9970,7 @@ DECRETO por el que se reforman los artículos 65 y 66 de la Constitución Polít
 Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 3 de septiembre de 1993
 
-ARTICULO UNICO.- Se reforman el primer párrafo del artículo 65 y el primer párrafo del artículo 66 de
+**ARTICULO UNICO.-** Se reforman el primer párrafo del artículo 65 y el primer párrafo del artículo 66 de
 la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………..
 
@@ -10005,7 +10005,7 @@ DECRETO por el que se reforman los artículos 41, 54, 56, 60, 63, 74 y 100 de la
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 3 de septiembre de 1993
 
-ARTICULO PRIMERO.- Se modifica el artículo 41 de la Constitución Política de los Estados Unidos
+**ARTICULO PRIMERO.-** Se modifica el artículo 41 de la Constitución Política de los Estados Unidos
 Mexicanos con la adición de un párrafo sexto; los actuales párrafos sexto, séptimo, octavo y noveno se
 recorren en su orden para quedar como párrafos séptimo, octavo, noveno y décimo; se modifica y se
 recorre en su orden el actual párrafo décimo para quedar como párrafo décimo primero; se deroga el
@@ -10014,7 +10014,8 @@ cuarto, décimo quinto, décimo sexto y décimo séptimo; se recorre el actual p
 quedar como párrafo décimo octavo; y se adicionan los párrafos décimo noveno y vigésimo en los
 siguientes términos:
 ………
-ARTICULO SEGUNDO.- Se reforman y adicionan los artículos 54, 56, 60, 63, 74 fracción I, y 100 para
+
+**ARTICULO SEGUNDO.-** Se reforman y adicionan los artículos 54, 56, 60, 63, 74 fracción I, y 100 para
 quedar en los siguientes términos:
 ………
 
@@ -10067,7 +10068,7 @@ DECRETO por el que se reforman los artículos 16, 19, 20 y 119 y se deroga la fr
 XVIII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 3 de septiembre de 1993
 
-ARTICULO UNICO.- Se reforman los artículos 16, 19, 20 y 119 y se deroga la fracción XVIII del
+**ARTICULO UNICO.-** Se reforman los artículos 16, 19, 20 y 119 y se deroga la fracción XVIII del
 artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……..
 
@@ -10160,7 +10161,7 @@ primer párrafo al 119 y se deroga la fracción XVII del artículo 89 de la Cons
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 25 de octubre de 1993
 
-ARTICULO UNICO.- Se reforman los artículos 31, fracción IV; 44; 73, fracciones VI, VIII y XXIX-H; 74,
+**ARTICULO UNICO.-** Se reforman los artículos 31, fracción IV; 44; 73, fracciones VI, VIII y XXIX-H; 74,
 fracción IV, en sus párrafos primero, segundo y séptimo; 79, fracción II; 89, fracción II; 104 fracción 1-B;
 105; y 107, fracción VIII, inciso a); la denominación del Título Quinto y el artículo 122. Se adicionan los
 artículos 76 con una fracción IX y 119 con un primer párrafo, pasando los actuales primero y segundo a
@@ -10226,7 +10227,7 @@ DECRETO por el que se reforman los párrafos octavo, noveno, decimoséptimo y
 decimoctavo del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 19 de abril de 1994
 
-ARTICULO UNICO.- Se reforman los párrafos octavo, noveno, decimoséptimo y decimoctavo del
+**ARTICULO UNICO.-** Se reforman los párrafos octavo, noveno, decimoséptimo y decimoctavo del
 artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……….
 
@@ -10249,12 +10250,13 @@ DECRETO por el que se reforma la fracción I del Artículo 82 de la Constitució
 los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 1 de julio de 1994
 
-ARTICULO UNICO.- Se modifica el artículo 82, fracción I, de la Constitución Política de los Estados
+**ARTICULO UNICO.-** Se modifica el artículo 82, fracción I, de la Constitución Política de los Estados
 Unidos Mexicanos para quedar como sigue:
 ……….
 
 ## TRANSITORIO
-ARTICULO UNICO.- El presente Decreto entrará en vigor el día 31 de diciembre de 1999.
+
+**ARTICULO UNICO.-** El presente Decreto entrará en vigor el día 31 de diciembre de 1999.
 México, D.F., a 28 de junio de 1994.- Sen. Ricardo Monreal Avila, Presidente.- Dip. Javier Colorado
 Pulido, Presidente.- Sen. Oscar Ramírez Mijares, Secretario.- Dip. José Raúl Hernández Avila,
 Secretario.- Rúbricas".
@@ -10273,7 +10275,7 @@ DECRETO mediante el cual se declaran reformados los artículos 21, 55, 73, 76, 7
 la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994
 
-ARTICULO UNICO.- Se adicionan tres párrafos al artículo 21; se reforma la fracción V del artículo 55;
+**ARTICULO UNICO.-** Se adicionan tres párrafos al artículo 21; se reforma la fracción V del artículo 55;
 se restablece la fracción XXIII del artículo 73; se reforman las fracciones II y VIII del artículo 76; se
 reforman las fracciones II y V del artículo 79; se reforman las fracciones II, IX, XVI y XVIII del artículo 89;
 se reforma el párrafo segundo del artículo 93; se reforman los párrafos primero, segundo, quinto, sexto,
@@ -10417,7 +10419,7 @@ DECRETO por el que se declara reformado el cuarto párrafo del artículo 28 de l
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 2 de marzo de 1995
 
-ARTICULO UNICO.- Se reforma el cuarto párrafo del artículo 28 de la Constitución Política de los
+**ARTICULO UNICO.-** Se reforma el cuarto párrafo del artículo 28 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ………..
 
@@ -10441,7 +10443,7 @@ penúltimo párrafo, 21, 22 y 73 fracción XXI de la Constitución Política de 
 Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 3 de julio de 1996
 
-ARTICULO UNICO.- Se adicionan dos párrafos al artículo 16, como noveno y décimo, hecho lo cual,
+**ARTICULO UNICO.-** Se adicionan dos párrafos al artículo 16, como noveno y décimo, hecho lo cual,
 los párrafos subsecuentes se recorren en su orden; se reforma el artículo 20, fracción I y penúltimo
 párrafo; se reforma el artículo 21, párrafo primero; se reforma el artículo 22, párrafo segundo; se reforma
 el artículo 73, fracción XXI y se le adiciona un segundo párrafo; todos de la Constitución Política de los
@@ -10467,7 +10469,7 @@ DECRETO mediante el cual se declaran reformados diversos artículos de la Consti
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 22 de agosto de 1996
 
-ARTÍCULO ÚNICO. SE REFORMAN la fracción III del artículo 35; la fracción III del artículo 36; el
+**ARTÍCULO ÚNICO.** SE REFORMAN la fracción III del artículo 35; la fracción III del artículo 36; el
 artículo 41, de su párrafo segundo en adelante; el artículo 54, de su fracción II en adelante; el artículo 56;
 los párrafos segundo y tercero del artículo 60; la fracción I del artículo 74; los párrafos primero, cuarto y
 octavo del artículo 94; el artículo 99; los párrafos primero y segundo del artículo 101; el encabezado y el
@@ -10580,7 +10582,7 @@ DECRETO por el que se declaran reformados los artículos 30, 32 y 37 de la Const
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 20 de marzo de 1997
 
-ARTÍCULO ÚNICO.- Se reforma la fracción II, la fracción III se recorre y pasa a ser IV y se adiciona
+**ARTÍCULO ÚNICO.-** Se reforma la fracción II, la fracción III se recorre y pasa a ser IV y se adiciona
 una nueva fracción III, del apartado A) del artículo 30; se reforma la fracción II del apartado B) del artículo
 30; se reforma el artículo 32; y se reforma el apartado A), el apartado B) se recorre y pasa a ser el C), se
 agrega un nuevo apartado B), se reforma la fracción I y se agrega un último párrafo al nuevo apartado C)
@@ -10624,7 +10626,7 @@ que se reformaron los artículos 30, 32 y 37 de la Constitución Política de lo
 Unidos Mexicanos, publicado el 20 de marzo de 1997.
 Publicado en el Diario Oficial de la Federación el 26 de febrero de 1999
 
-ARTICULO UNICO.- Se reforma el Artículo 3o. transitorio, del decreto por el que se reformaron los
+**ARTICULO UNICO.-** Se reforma el Artículo 3o. transitorio, del decreto por el que se reformaron los
 artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario
 Oficial de la Federación el 20 de Marzo de 1997, para quedar como sigue:
 ……….
@@ -10649,7 +10651,7 @@ DECRETO por el que se declaran reformados los artículos 16, 19, 22 y 123 de la
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 8 de marzo de 1999
 
-ARTICULO UNICO.- Se reforma el segundo párrafo del artículo 16; se reforma el primer párrafo, se
+**ARTICULO UNICO.-** Se reforma el segundo párrafo del artículo 16; se reforma el primer párrafo, se
 adiciona un segundo párrafo y los dos subsecuentes pasan a ser tercero y cuarto párrafos del artículo 19;
 se adiciona un tercer párrafo del artículo 22 y el subsecuente pasa a ser el cuarto párrafo; se reforma el
 primer párrafo y se adiciona un tercer párrafo a la fracción XIII del apartado B del artículo 123, todos de la
@@ -10676,7 +10678,7 @@ DECRETO por el que se reforman los artículos 94, 97, 100 y 107 de la Constituci
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 11 de junio de 1999
 
-ARTÍCULO ÚNICO.- Se reforman los artículos 94, párrafos primero y sexto; 97, último párrafo; 100,
+**ARTÍCULO ÚNICO.-** Se reforman los artículos 94, párrafos primero y sexto; 97, último párrafo; 100,
 párrafos primero, segundo, tercero, quinto, séptimo, octavo y noveno; y 107, fracción IX; se adiciona un
 segundo párrafo al artículo 94, recorriéndose en su orden los párrafos segundo a décimo para pasar a ser
 tercero a undécimo y un tercer párrafo al artículo 100, recorriéndose en su orden los párrafos tercero a
@@ -10746,7 +10748,7 @@ DECRETO por el que se declara reformada la fracción XXIX-H y se adiciona una fr
 XXIX-I al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 28 de junio de 1999
 
-ARTICULO UNICO.- Se reforma la fracción XXIX-H y se adiciona una fracción XXIX-I al Artículo 73 de
+**ARTICULO UNICO.-** Se reforma la fracción XXIX-H y se adiciona una fracción XXIX-I al Artículo 73 de
 la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -10769,7 +10771,7 @@ DECRETO por el que se declara la adición de una fracción XXIX-J al artículo 7
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 28 de junio de 1999
 
-ARTICULO UNICO.- Se adiciona una fracción XXIX-J al artículo 73 de la Constitución Política de los
+**ARTICULO UNICO.-** Se adiciona una fracción XXIX-J al artículo 73 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -10817,7 +10819,7 @@ DECRETO por el que se declaran reformados los artículos 73, 74, 78 y 79 de la
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 30 de julio de 1999
 
-ARTICULO UNICO.- Se adicionan con un segundo párrafo y ocho fracciones el artículo 78, con una
+**ARTICULO UNICO.-** Se adicionan con un segundo párrafo y ocho fracciones el artículo 78, con una
 Sección V el Capítulo II del Título Tercero, así como el artículo 74 fracción IV, párrafo quinto; se reforman
 los artículos 73, fracción XXIV, 74, fracción II y 79; y se deroga la fracción III del artículo 74 de la
 Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
@@ -10912,7 +10914,7 @@ DECRETO por el que se declara reformado y adicionado el artículo 115 de la Cons
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1999
 
-ARTICULO UNICO.- Se reforman los párrafos primero, cuarto y quinto de la fracción I; se reforma el
+**ARTICULO UNICO.-** Se reforman los párrafos primero, cuarto y quinto de la fracción I; se reforma el
 párrafo segundo y se adicionan un párrafo tercero y uno cuarto a la fracción II; se reforma el párrafo
 primero y sus incisos a), c), g), h), e i), el párrafo segundo y se adiciona un párrafo tercero a la fracción III;
 se reforman los párrafos segundo y tercero, y se adicionan los párrafos cuarto y quinto a la fracción IV; y
@@ -10921,15 +10923,18 @@ Unidos Mexicanos, para quedar como sigue:
 ………
 
 ARTICULOS TRANSITORIOS
-ARTICULO PRIMERO. El presente decreto entrará en vigor noventa días después de su publicación
+
+**ARTICULO PRIMERO.** El presente decreto entrará en vigor noventa días después de su publicación
 en el Diario Oficial de la Federación, salvo lo previsto en los artículos siguientes.
-ARTICULO SEGUNDO. Los Estados deberán adecuar sus constituciones y leyes conforme a lo
+
+**ARTICULO SEGUNDO.** Los Estados deberán adecuar sus constituciones y leyes conforme a lo
 dispuesto en este decreto a más tardar en un año a partir de su entrada en vigor. En su caso, el
 Congreso de la Unión deberá realizar las adecuaciones a las leyes federales a más tardar el 30 de abril
 del año 2001.
 En tanto se realizan las adecuaciones a que se refiere el párrafo anterior, se continuarán aplicando las
 disposiciones vigentes.
-ARTICULO TERCERO. Tratándose de funciones y servicios que conforme al presente Decreto sean
+
+**ARTICULO TERCERO.** Tratándose de funciones y servicios que conforme al presente Decreto sean
 competencia de los municipios y que a la entrada en vigor de las reformas a que se refiere el artículo
 transitorio anterior sean prestados por los gobiernos estatales, o de manera coordinada con los
 municipios, éstos podrán asumirlos, previa aprobación del ayuntamiento. Los gobiernos de los estados
@@ -10943,10 +10948,12 @@ municipio afecte, en perjuicio de la población, su prestación. La legislatura 
 conducente.
 En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos
 seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
-ARTICULO CUARTO. Los estados y municipios realizarán los actos conducentes a efecto de que los
+
+**ARTICULO CUARTO.** Los estados y municipios realizarán los actos conducentes a efecto de que los
 convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este
 decreto y a las constituciones y leyes estatales.
-ARTICULO QUINTO. Antes del inicio del ejercicio fiscal de 2002, las legislaturas de los estados, en
+
+**ARTICULO QUINTO.** Antes del inicio del ejercicio fiscal de 2002, las legislaturas de los estados, en
 coordinación con los municipios respectivos, adoptarán las medidas conducentes a fin de que los valores
 unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria
 sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las
@@ -10957,7 +10964,8 @@ CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a
 fin de garantizar su apego a los principios de proporcionalidad y equidad.
-ARTICULO SEXTO. En la realización de las acciones conducentes al cumplimiento del presente
+
+**ARTICULO SEXTO.** En la realización de las acciones conducentes al cumplimiento del presente
 decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los
 derechos de los trabajadores estatales y municipales.
 México, D.F., a 28 de octubre de 1999.- Sen. Cristóbal Arias Solís, Presidente.- Dip. Francisco José
@@ -11016,17 +11024,20 @@ disposiciones del artículo 20 de la Constitución Política de los Estados Unid
 Mexicanos.
 Publicado en el Diario Oficial de la Federación el 21 de septiembre de 2000
 
-ARTICULO PRIMERO.- Se deroga el último párrafo del artículo 20 de la Constitución Política de los
+**ARTICULO PRIMERO.-** Se deroga el último párrafo del artículo 20 de la Constitución Política de los
 Estados Unidos Mexicanos.
-ARTICULO SEGUNDO.- Se reforma el párrafo inicial y la fracción IV del artículo 20 de la Constitución
+
+**ARTICULO SEGUNDO.-** Se reforma el párrafo inicial y la fracción IV del artículo 20 de la Constitución
 Política de los Estados Unidos Mexicanos; se agrupa el contenido del artículo en un apartado A, y se
 adiciona un apartado B; para quedar como sigue:
 ………
 
 ## TRANSITORIOS
-ARTICULO PRIMERO.- El presente Decreto entrará en vigor a los seis meses de su publicación en el
+
+**ARTICULO PRIMERO.-** El presente Decreto entrará en vigor a los seis meses de su publicación en el
 Diario Oficial de la Federación.
-ARTICULO SEGUNDO.- Las disposiciones legales vigentes continuarán aplicándose en lo que no se
+
+**ARTICULO SEGUNDO.-** Las disposiciones legales vigentes continuarán aplicándose en lo que no se
 opongan al presente Decreto, en tanto se expiden las normas reglamentarias correspondientes.
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA
 UNION.- México, D.F., a 23 de agosto de 2000.- Sen. María de los Angeles Moreno Uriegas,
@@ -11074,22 +11085,26 @@ fracción tercera del artículo 115 de la Constitución Política de los Estados
 Mexicanos.
 Publicado en el Diario Oficial de la Federación el 14 de agosto de 2001
 
-ARTICULO UNICO.- Se adicionan un segundo y tercer párrafos al artículo 1o.; se reforma en su
+**ARTICULO UNICO.-** Se adicionan un segundo y tercer párrafos al artículo 1o.; se reforma en su
 integridad el artículo 2o. y se deroga el párrafo primero del artículo 4o.; se adicionan: un sexto párrafo al
 artículo 18, un último párrafo a la fracción tercera del artículo 115, todos de la Constitución Política de los
 Estados Unidos Mexicanos, así como cuatro Transitorios, para quedar como sigue:
 ……..
 
 ARTICULOS TRANSITORIOS
-ARTICULO PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el
+
+**ARTICULO PRIMERO.** El presente decreto entrará en vigor al día siguiente de su publicación en el
 Diario Oficial de la Federación.
-ARTICULO SEGUNDO. Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas
+
+**ARTICULO SEGUNDO.** Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas
 de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones
 locales que procedan y reglamenten lo aquí estipulado.
-ARTICULO TERCERO. Para establecer la demarcación territorial de los distritos electorales
+
+**ARTICULO TERCERO.** Para establecer la demarcación territorial de los distritos electorales
 uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y
 comunidades indígenas, a fin de propiciar su participación política.
-ARTICULO CUARTO. El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la
+
+**ARTICULO CUARTO.** El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la
 exposición de motivos y del cuerpo normativo del presente decreto, se traduzca a las lenguas de los
 pueblos indígenas del país y ordenará su difusión en sus comunidades.
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA
@@ -11110,7 +11125,7 @@ Título Cuarto y se adiciona un segundo párrafo al artículo 113 de la Constitu
 de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2002
 
-ARTICULO UNICO.- Se modifica la denominación del Título Cuarto y se adiciona un segundo párrafo
+**ARTICULO UNICO.-** Se modifica la denominación del Título Cuarto y se adiciona un segundo párrafo
 al artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -11212,7 +11227,7 @@ DECRETO por el que se aprueba el diverso por el que se adiciona una fracción XX
 artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 29 de septiembre de 2003
 
-ARTÍCULO ÚNICO. Se adiciona una fracción XXIX-K del artículo 73, de la Constitución Política de los
+**ARTÍCULO ÚNICO.** Se adiciona una fracción XXIX-K del artículo 73, de la Constitución Política de los
 Estados Unidos Mexicanos.
 
 ## TRANSITORIO
@@ -11236,7 +11251,7 @@ y la fracción IV del artículo 77 de la Constitución Política de los Estados 
 Mexicanos.
 Publicado en el Diario Oficial de la Federación el 29 de octubre de 2003
 
-ARTÍCULO ÚNICO.- Se reforma el párrafo primero del artículo 63 y la fracción IV del artículo 77, de la
+**ARTÍCULO ÚNICO.-** Se reforma el párrafo primero del artículo 63 y la fracción IV del artículo 77, de la
 Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……..
 
@@ -11260,7 +11275,7 @@ DECRETO por el que se adiciona la fracción XXIX-M al artículo 73 y se reforma 
 VI del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 5 de abril de 2004
 
-ARTÍCULO ÚNICO.- Se adiciona una fracción XXIX-M al artículo 73 y se reforma la fracción VI del
+**ARTÍCULO ÚNICO.-** Se adiciona una fracción XXIX-M al artículo 73 y se reforma la fracción VI del
 artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……..
 
@@ -11310,7 +11325,7 @@ DECRETO por el que se aprueba el diverso mediante el cual se reforma la fracció
 artículo 74 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 30 de julio de 2004
 
-ARTÍCULO ÚNICO.- Se reforma la fracción IV del Artículo 74 de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se reforma la fracción IV del Artículo 74 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -11333,7 +11348,7 @@ DECRETO por el que se aprueba el Decreto que reforma el primer párrafo del art�
 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 2 de agosto de 2004
 
-ARTICULO UNICO.- Se reforma el primer párrafo del artículo 65 de la Constitución Política de los
+**ARTICULO UNICO.-** Se reforma el primer párrafo del artículo 65 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ……..
 
@@ -11382,7 +11397,7 @@ DECRETO por el que se adiciona el artículo 21 de la Constitución Política de 
 Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 20 de junio de 2005
 
-ARTÍCULO ÚNICO.- Se adiciona un párrafo quinto al artículo 21 de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se adiciona un párrafo quinto al artículo 21 de la Constitución Política de los
 Estados Unidos Mexicanos, recorriéndose en su orden los actuales quinto y sexto, que pasan a ser sexto
 y séptimo, para quedar como sigue:
 ..........
@@ -11407,7 +11422,7 @@ DECRETO por el que se declara adicionado un párrafo tercero a la fracción XXI,
 **Artículo 73 de** la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2005
 
-ARTÍCULO ÚNICO. Se adiciona un párrafo tercero a la fracción XXI, del Artículo 73 de la Constitución
+**ARTÍCULO ÚNICO.** Se adiciona un párrafo tercero a la fracción XXI, del Artículo 73 de la Constitución
 Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -11610,7 +11625,7 @@ DECRETO por el que se adiciona el inciso g) a la fracción II del artículo 105 
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 14 de septiembre de 2006
 
-ARTÍCULO ÚNICO. Se adiciona el inciso g) a la fracción II del artículo 105 de la Constitución Política
+**ARTÍCULO ÚNICO.** Se adiciona el inciso g) a la fracción II del artículo 105 de la Constitución Política
 de los Estados Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -11633,7 +11648,7 @@ DECRETO por el que se reforma el artículo 73, fracción XXIX-H de la Constituci
 de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2006
 
-ARTÍCULO ÚNICO.- Se reforma el artículo 73, fracción XXIX-H de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se reforma el artículo 73, fracción XXIX-H de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -11662,7 +11677,7 @@ DECRETO por el que se reforma el Artículo 1o., Párrafo Tercero de la Constituc
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2006
 
-ARTÍCULO ÚNICO.- Se reforma el Artículo 1o., Párrafo Tercero de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se reforma el Artículo 1o., Párrafo Tercero de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -11709,7 +11724,7 @@ DECRETO por el que se reforma la fracción VI, del artículo 82 de la Constituci
 de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 19 de junio de 2007
 
-ARTÍCULO ÚNICO.- Se reforma la fracción VI, del Artículo 82 de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se reforma la fracción VI, del Artículo 82 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -11732,7 +11747,7 @@ DECRETO por el que se reforma la fracción V del artículo 55 de la Constitució
 de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 19 de junio de 2007
 
-ARTÍCULO ÚNICO.- Se reforma la fracción V del artículo 55 de la Constitución Política de los Estados
+**ARTÍCULO ÚNICO.-** Se reforma la fracción V del artículo 55 de la Constitución Política de los Estados
 Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -11755,7 +11770,7 @@ DECRETO por el que se reforma la fracción X del artículo 73 de la Constitució
 de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 20 de julio de 2007
 
-ARTÍCULO ÚNICO.- Se reforma la fracción X del artículo 73 de la Constitución Política de los Estados
+**ARTÍCULO ÚNICO.-** Se reforma la fracción X del artículo 73 de la Constitución Política de los Estados
 Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -11815,28 +11830,35 @@ DECRETO por el que se reforman los artículos 29, 73, 90, 92, 93, 95, 110 y 111 
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 2 de agosto de 2007
 
-ARTÍCULO PRIMERO.- Se reforma el artículo 29 de la Constitución Política de los Estados Unidos
+**ARTÍCULO PRIMERO.-** Se reforma el artículo 29 de la Constitución Política de los Estados Unidos
 Mexicanos, para quedar como sigue:
 ...........
-ARTÍCULO SEGUNDO.- Se reforma la numeral 2 de la fracción XVI del artículo 73 de la Constitución
+
+**ARTÍCULO SEGUNDO.-** Se reforma la numeral 2 de la fracción XVI del artículo 73 de la Constitución
 Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ...........
-ARTÍCULO TERCERO.- Se reforman los dos párrafos del artículo 90 de la Constitución Política de los
+
+**ARTÍCULO TERCERO.-** Se reforman los dos párrafos del artículo 90 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ...........
-ARTÍCULO CUARTO.- Se reforma el artículo 92 de la Constitución Política de los Estados Unidos
+
+**ARTÍCULO CUARTO.-** Se reforma el artículo 92 de la Constitución Política de los Estados Unidos
 Mexicanos, para quedar como sigue:
 ...........
-ARTÍCULO QUINTO.- Se reforman los dos primeros párrafos del artículo 93 de la Constitución
+
+**ARTÍCULO QUINTO.-** Se reforman los dos primeros párrafos del artículo 93 de la Constitución
 Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ...........
-ARTÍCULO SEXTO.- Se reforma la fracción VI del artículo 95 de la Constitución Política de los
+
+**ARTÍCULO SEXTO.-** Se reforma la fracción VI del artículo 95 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ...........
-ARTÍCULO SÉPTIMO.- Se reforma el primer párrafo del artículo 110 de la Constitución Política de los
+
+**ARTÍCULO SÉPTIMO.-** Se reforma el primer párrafo del artículo 110 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ...........
-ARTÍCULO OCTAVO.- Se reforma el primer párrafo del artículo 111 de la Constitución Política de los
+
+**ARTÍCULO OCTAVO.-** Se reforma el primer párrafo del artículo 111 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ...........
 
@@ -11868,7 +11890,7 @@ DECRETO por el que se adiciona una fracción XXIX-N al artículo 73 de la Consti
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 15 de agosto de 2007
 
-ARTÍCULO ÚNICO.- Se adiciona una fracción XXIX-N al artículo 73 de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se adiciona una fracción XXIX-N al artículo 73 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -11893,7 +11915,7 @@ DECRETO por el que se reforma la fracción IV del artículo 99, de la Constituci
 de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 27 de septiembre de 2007
 
-ARTÍCULO ÚNICO.- Se reforma la fracción IV del artículo 99 de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se reforma la fracción IV del artículo 99 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ..........
 
@@ -12167,7 +12189,7 @@ DECRETO por el que se reforma el artículo 88 de la Constitución Política de l
 Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 29 de agosto de 2008
 
-ARTÍCULO ÚNICO.- Se reforma el artículo 88 de la Constitución Política de los Estados Unidos
+**ARTÍCULO ÚNICO.-** Se reforma el artículo 88 de la Constitución Política de los Estados Unidos
 Mexicanos, para quedar como sigue:
 ………
 
@@ -12190,7 +12212,7 @@ DECRETO por el que se reforma el párrafo quinto de la fracción I del artículo
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 26 de septiembre de 2008
 
-ARTÍCULO ÚNICO.- Se reforma el artículo 116, fracción I, párrafo quinto de la Constitución Política de
+**ARTÍCULO ÚNICO.-** Se reforma el artículo 116, fracción I, párrafo quinto de la Constitución Política de
 los Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -12493,7 +12515,7 @@ DECRETO por el que se reforma el artículo 43 de la Constitución Política de l
 Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 13 de abril de 2011
 
-ARTÍCULO ÚNICO.- Se reforma el artículo 43 de la Constitución Política de los Estados Unidos
+**ARTÍCULO ÚNICO.-** Se reforma el artículo 43 de la Constitución Política de los Estados Unidos
 Mexicanos, para quedar como sigue:
 ……….
 
@@ -12554,7 +12576,7 @@ DECRETO por el que se modifica la denominación del Capítulo I del Título Prim
 reforma diversos artículos de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 10 de junio de 2011
 
-ARTÍCULO ÚNICO.- Se modifica la denominación del Capítulo Primero del Título Primero; el primero
+**ARTÍCULO ÚNICO.-** Se modifica la denominación del Capítulo Primero del Título Primero; el primero
 y quinto párrafos del artículo 1o.; el segundo párrafo del artículo 3o.; el primer párrafo del artículo 11; el
 artículo 15; el segundo párrafo del artículo 18; el primer párrafo del artículo 29; el primer párrafo del
 artículo 33; la fracción décima del artículo 89; el segundo párrafo del artículo 97; el segundo y tercer
@@ -12636,13 +12658,15 @@ DECRETO por el que se reforman los artículos 71, 72 y 78 de la Constitución Po
 los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 17 de agosto de 2011
 
-ARTÍCULO PRIMERO.- Se reforma el último párrafo del artículo 71 de la Constitución Política de los
+**ARTÍCULO PRIMERO.-** Se reforma el último párrafo del artículo 71 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ……….
-ARTÍCULO SEGUNDO.- Se reforma el primer párrafo y de la fracción B del artículo 72 de la
+
+**ARTÍCULO SEGUNDO.-** Se reforma el primer párrafo y de la fracción B del artículo 72 de la
 Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……….
-ARTÍCULO TERCERO.- Se reforma la fracción III del artículo 78 de la Constitución Política de los
+
+**ARTÍCULO TERCERO.-** Se reforma la fracción III del artículo 78 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ……….
 
@@ -12666,7 +12690,7 @@ fracción XXIX-J del artículo 73 de la Constitución Política de los Estados U
 Mexicanos.
 Publicado en el Diario Oficial de la Federación el 12 de octubre de 2011
 
-ARTÍCULO ÚNICO. Se adiciona un párrafo décimo al artículo 4o. y se reforma la fracción XXIX-J del
+**ARTÍCULO ÚNICO.** Se adiciona un párrafo décimo al artículo 4o. y se reforma la fracción XXIX-J del
 artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -12718,7 +12742,7 @@ orden los subsecuentes y un segundo párrafo a la fracción XX del artículo 27 
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 13 de octubre de 2011
 
-ARTÍCULO ÚNICO.- Se adiciona un párrafo tercero al artículo 4o., recorriéndose en el orden los
+**ARTÍCULO ÚNICO.-** Se adiciona un párrafo tercero al artículo 4o., recorriéndose en el orden los
 subsecuentes, y un segundo párrafo a la fracción XX del artículo 27 ambos de la Constitución Política de
 los Estados Unidos Mexicanos, para quedar como sigue:
 ……….
@@ -12814,7 +12838,7 @@ DECRETO por el que se adiciona el párrafo segundo de la fracción XXI del artí
 la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 25 de junio de 2012
 
-ARTÍCULO ÚNICO. Se adiciona el párrafo segundo de la fracción XXI del artículo 73 de la
+**ARTÍCULO ÚNICO.** Se adiciona el párrafo segundo de la fracción XXI del artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -12843,7 +12867,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitu
 Política de los Estados Unidos Mexicanos, en materia política.
 Publicado en el Diario Oficial de la Federación el 9 de agosto de 2012
 
-ARTÍCULO ÚNICO.- SE REFORMAN: el párrafo primero y la fracción II del artículo 35; la fracción III
+**ARTÍCULO ÚNICO.-** SE REFORMAN: el párrafo primero y la fracción II del artículo 35; la fracción III
 del artículo 36; el párrafo segundo del artículo 71; la fracción XXVI del artículo 73; el párrafo cuarto de la
 fracción VI del artículo 74; la fracción II del artículo 76; las fracciones IV, VI y VII del artículo 78; el artículo
 83; los párrafos primero, segundo y tercero (que pasan a ser cuarto y quinto) del artículo 84; los párrafos
@@ -12858,15 +12882,19 @@ quedar como sigue:
 ……….
 
 ARTÍCULOS TRANSITORIOS
-ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el
+
+**ARTÍCULO PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el
 Diario Oficial de la Federación.
-ARTICULO SEGUNDO. El Congreso de la Unión deberá expedir la legislación para hacer cumplir lo
+
+**ARTICULO SEGUNDO.** El Congreso de la Unión deberá expedir la legislación para hacer cumplir lo
 dispuesto en el presente Decreto, a más tardar en un año contando a partir de la entrada en vigor del
 mismo.
-ARTÍCULO TERCERO. Los Congresos de los Estados y la Asamblea Legislativa del Distrito Federal
+
+**ARTÍCULO TERCERO.** Los Congresos de los Estados y la Asamblea Legislativa del Distrito Federal
 deberán realizar las adecuaciones necesarias a su legislación secundaria, derivadas del presente
 Decreto en un plazo no mayor a un año, contado a partir de su entrada en vigor.
-ARTÍCULO CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+**ARTÍCULO CUARTO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 18 de julio de 2012.- Sen. José González Morfín, Presidente.- Dip. María de Jesús
 Aguirre Maldonado, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
@@ -12934,7 +12962,7 @@ fracción II y una fracción IX al artículo 3o. de la Constitución Política d
 Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 26 de febrero de 2013
 
-ARTÍCULO ÚNICO.- Se reforman los artículos 3o., fracciones III, VII y VIII, y 73, fracción XXV; y se
+**ARTÍCULO ÚNICO.-** Se reforman los artículos 3o., fracciones III, VII y VIII, y 73, fracción XXV; y se
 adiciona un párrafo tercero, un inciso d) al párrafo segundo de la fracción II y una fracción IX, al artículo
 3o., de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
@@ -13041,7 +13069,7 @@ el párrafo primero y tercero del apartado A del artículo 26 de la Constitució
 los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 5 de junio de 2013
 
-ARTÍCULO ÚNICO.- Se reforman los párrafos primero y último del artículo 25, así como el párrafo
+**ARTÍCULO ÚNICO.-** Se reforman los párrafos primero y último del artículo 25, así como el párrafo
 primero y tercero del apartado A del artículo 26, ambos de la Constitución Política de los Estados Unidos
 Mexicanos, para quedar como sigue:
 ………
@@ -13068,7 +13096,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de los artícu
 en materia de telecomunicaciones.
 Publicado en el Diario Oficial de la Federación el 11 de junio de 2013
 
-ARTÍCULO ÚNICO. Se REFORMAN el párrafo primero del artículo 6o.; el artículo 7o.; el párrafo sexto
+**ARTÍCULO ÚNICO.** Se REFORMAN el párrafo primero del artículo 6o.; el artículo 7o.; el párrafo sexto
 del artículo 27; el párrafo segundo del artículo 28; la fracción XVII del artículo 73; la fracción VII del
 artículo 78 y el párrafo sexto del artículo 94; y se ADICIONAN los párrafos segundo, tercero y cuarto,
 pasando el actual párrafo segundo a ser apartado A del párrafo cuarto, y un apartado B al artículo 6o.; los
@@ -13485,7 +13513,7 @@ DECRETO por el que se reforma la fracción XXI del artículo 73 de la Constituci
 de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 8 de octubre de 2013
 
-ARTÍCULO ÚNICO. Se reforma la fracción XXI del artículo 73, de la Constitución Política de los
+**ARTÍCULO ÚNICO.** Se reforma la fracción XXI del artículo 73, de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -14144,10 +14172,11 @@ del artículo 116; y se reforma el artículo 122, Apartado C, Base Primera, frac
 f) de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2013
 
-ARTÍCULO PRIMERO.- Se reforma el inciso e) y se adiciona el inciso o) de la fracción IV del artículo
+**ARTÍCULO PRIMERO.-** Se reforma el inciso e) y se adiciona el inciso o) de la fracción IV del artículo
 116 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
-ARTÍCULO SEGUNDO.- Se reforma el artículo 122, Apartado C, BASE PRIMERA, fracción V, inciso f)
+
+**ARTÍCULO SEGUNDO.-** Se reforma el artículo 122, Apartado C, BASE PRIMERA, fracción V, inciso f)
 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -14171,7 +14200,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitu
 Política de los Estados Unidos Mexicanos, en materia de transparencia.
 Publicado en el Diario Oficial de la Federación el 7 de febrero de 2014
 
-ARTÍCULO ÚNICO. Se reforman las fracciones I, IV y V del apartado A, y se adiciona una fracción VIII
+**ARTÍCULO ÚNICO.** Se reforman las fracciones I, IV y V del apartado A, y se adiciona una fracción VIII
 al artículo 6o.; se adicionan las fracciones XXIX-S y XXIX-T al artículo 73; se adiciona una fracción XII al
 artículo 76 y se recorre la subsecuente; se reforma la fracción XIX del artículo 89; se reforma el inciso l)
 de la fracción I y se adiciona el inciso h) a la fracción II del artículo 105; se reforma el párrafo tercero del
@@ -14324,7 +14353,7 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral.
 Publicado en el Diario Oficial de la Federación el 10 de febrero de 2014
 
-ARTÍCULO ÚNICO.- Se reforman los párrafos segundo y cuarto del apartado A del artículo 26; la
+**ARTÍCULO ÚNICO.-** Se reforman los párrafos segundo y cuarto del apartado A del artículo 26; la
 fracción VII del párrafo vigésimo tercero del artículo 28; el primer párrafo del artículo 29; la fracción VII y
 los apartados 4o. y 6o. de la fracción VIII del artículo 35; la base I en sus párrafos inicial y segundo, el
 tercer párrafo de la base II, la base III en su párrafo inicial, el apartado A en su párrafo inicial e incisos a),
@@ -14727,7 +14756,7 @@ DECRETO por el que se adiciona el artículo 4o. de la Constitución Política de
 Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
 
-ARTÍCULO ÚNICO.- Se adiciona un octavo párrafo, recorriéndose en su orden los subsecuentes, al
+**ARTÍCULO ÚNICO.-** Se adiciona un octavo párrafo, recorriéndose en su orden los subsecuentes, al
 artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……….
 
@@ -14764,7 +14793,7 @@ DECRETO por el que se reforma el tercer párrafo del artículo 108 de la Constit
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
 
-ARTÍCULO ÚNICO.- Se reforma el tercer párrafo del artículo 108 de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se reforma el tercer párrafo del artículo 108 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -14788,7 +14817,7 @@ DECRETO por el que se reforma la fracción III del apartado A del artículo 123 
 Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
 
-ARTÍCULO ÚNICO.- Se reforma la fracción III del apartado A del artículo 123 de la Constitución
+**ARTÍCULO ÚNICO.-** Se reforma la fracción III del apartado A del artículo 123 de la Constitución
 Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……….
 
@@ -14811,7 +14840,7 @@ DECRETO por el que se reforma el inciso b) del tercer párrafo de la Base VI del
 41 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 7 de julio de 2014
 
-ARTÍCULO ÚNICO. Se reforma el inciso b) del tercer párrafo de la Base VI del artículo 41 de la
+**ARTÍCULO ÚNICO.** Se reforma el inciso b) del tercer párrafo de la Base VI del artículo 41 de la
 Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -15093,7 +15122,7 @@ DECRETO por el que se reforma el artículo 73, fracción XXI, inciso a), de la C
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 10 de julio de 2015
 
-ARTÍCULO ÚNICO.- Se reforma el inciso a) de la fracción XXI del artículo 73 de la Constitución
+**ARTÍCULO ÚNICO.-** Se reforma el inciso a) de la fracción XXI del artículo 73 de la Constitución
 Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……….
 
@@ -15235,7 +15264,7 @@ Constitución Política de los Estados Unidos Mexicanos, en materia de la reform
 de la Ciudad de México.
 Publicado en el Diario Oficial de la Federación el 29 de enero de 2016
 
-ARTÍCULO ÚNICO.- Se REFORMAN los artículos 2o., Apartado A, fracción III y Apartado B, párrafo
+**ARTÍCULO ÚNICO.-** Se REFORMAN los artículos 2o., Apartado A, fracción III y Apartado B, párrafo
 primero, y párrafo segundo, fracción IX; 3o., párrafo primero y las fracciones III y VIII; 5o., párrafo
 segundo; 6o., Apartado A, párrafo primero y fracción VIII, párrafos cuarto, quinto y décimo sexto; 17,
 párrafo séptimo; 18, párrafos tercero y cuarto; 21, párrafo noveno y párrafo décimo, inciso a); 26,
@@ -15261,13 +15290,16 @@ Mexicanos, para quedar como sigue:
 ……….
 
 ## Transitorios
-ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el
+
+**ARTÍCULO PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Diario Oficial de la Federación, salvo disposición en contrario conforme a lo establecido en los artículos
 transitorios siguientes.
-ARTÍCULO SEGUNDO.- Las normas de esta Constitución y los ordenamientos legales aplicables al
+
+**ARTÍCULO SEGUNDO.-** Las normas de esta Constitución y los ordenamientos legales aplicables al
 Distrito Federal que se encuentren vigentes a la entrada en vigor del presente Decreto, continuarán
 aplicándose hasta que inicie la vigencia de aquellos que lo sustituyan.
-ARTÍCULO TERCERO.- Las normas relativas a la elección de los poderes locales de la Ciudad de
+
+**ARTÍCULO TERCERO.-** Las normas relativas a la elección de los poderes locales de la Ciudad de
 México se aplicarán a partir del proceso electoral para la elección constitucional del año 2018. Se faculta
 a la Asamblea Legislativa del Distrito Federal para que, una vez publicada la Constitución Política de la
 Ciudad de México, expida las leyes inherentes a la organización, funcionamiento y competencias de los
@@ -15282,7 +15314,8 @@ CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 Lo dispuesto en el párrafo tercero de la Base II del Apartado A del artículo 122 constitucional
 contenido en el presente Decreto, no será aplicable a los diputados integrantes de la VII Asamblea
 Legislativa del Distrito Federal.
-ARTÍCULO CUARTO.- Las normas relativas a la elección de las Alcaldías se aplicarán a partir del
+
+**ARTÍCULO CUARTO.-** Las normas relativas a la elección de las Alcaldías se aplicarán a partir del
 proceso electoral para la elección constitucional del año 2018.
 La elección de las Alcaldías en el año 2018 se realizará con base en la división territorial de las
 dieciséis demarcaciones territoriales del Distrito Federal vigente hasta la entrada en vigor del presente
@@ -15297,14 +15330,16 @@ Política de la Ciudad de México, expida las leyes inherentes a la organizació
 competencias necesarias para que las Alcaldías, a partir del inicio de sus funciones en 2018, ejerzan las
 facultades a que se refiere esta Constitución y la de la Ciudad de México. Dichas leyes entrarán en vigor
 una vez que lo haga la Constitución Política de la Ciudad de México.
-ARTÍCULO QUINTO.- Los órganos de gobierno electos en los años 2012 y 2015 permanecerán en
+
+**ARTÍCULO QUINTO.-** Los órganos de gobierno electos en los años 2012 y 2015 permanecerán en
 funciones hasta la terminación del periodo para el cual fueron electos. En su desempeño se ajustarán al
 orden constitucional, legal y del Estatuto de Gobierno del Distrito Federal destinado a normar las
 funciones a su cargo, que hubiere emanado o emane de los órganos competentes. Las facultades y
 atribuciones derivadas del presente Decreto de reformas constitucionales no serán aplicables a dichos
 órganos de gobierno, por lo que se sujetarán a las disposiciones constitucionales y legales vigentes con
 antelación a la entrada en vigor del presente Decreto.
-ARTÍCULO SEXTO.- Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del
+
+**ARTÍCULO SEXTO.-** Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del
 Apartado A del artículo 122 relativas al régimen jurídico de las relaciones de trabajo entre la Ciudad de
 México y sus trabajadores, entrarán en vigor a partir del día 1 de enero de 2020.
 En tanto la Legislatura de la Ciudad de México ejerce la atribución a que se refiere la Base XI del
@@ -15332,7 +15367,8 @@ Seguridad y Servicios Sociales de los Trabajadores del Estado, podrán celebrar 
 de la ley de dicho Instituto, para su incorporación y la afiliación de sus trabajadores. Lo anterior, siempre y
 cuando la Ciudad de México se encuentre al corriente en sus obligaciones con el Instituto y éste cuente
 con capacidad necesaria, en términos de su propia ley.
-ARTÍCULO SÉPTIMO.- La Asamblea Constituyente de la Ciudad de México se compondrá de cien
+
+**ARTÍCULO SÉPTIMO.-** La Asamblea Constituyente de la Ciudad de México se compondrá de cien
 diputados constituyentes, que serán elegidos conforme a lo siguiente:
 A. Sesenta se elegirán según el principio de representación proporcional, mediante una lista votada en
 una sola circunscripción plurinominal, en los siguientes términos:
@@ -15476,7 +15512,8 @@ tardar el día en que ésta celebre su sesión de instalación.
 Con la finalidad de cumplir con sus funciones, la Asamblea Constituyente de la Ciudad de México,
 deberá crear, al menos, tres comisiones para la discusión y aprobación de los dictámenes relativos al
 proyecto de Constitución.
-ARTÍCULO OCTAVO.- Aprobada y expedida la Constitución Política de la Ciudad de México, no
+
+**ARTÍCULO OCTAVO.-** Aprobada y expedida la Constitución Política de la Ciudad de México, no
 podrá ser vetada por ninguna autoridad y será remitida de inmediato para que, sin más trámite, se
 publique en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal.
 La Constitución Política de la Ciudad de México, entrará en vigor el día que ésta señale para la
@@ -15489,7 +15526,8 @@ instituciones electorales que resultarán aplicables al proceso electoral 2017-2
 Al momento de la publicación de la Constitución Política de la Ciudad de México, cesarán las
 funciones de la Asamblea Constituyente. A partir de ello, las reformas y adiciones a la Constitución
 Política de la Ciudad de México se realizarán de conformidad con lo que la misma establezca.
-ARTÍCULO NOVENO.- La integración, organización y funcionamiento de la Asamblea Constituyente
+
+**ARTÍCULO NOVENO.-** La integración, organización y funcionamiento de la Asamblea Constituyente
 de la Ciudad de México se regirá exclusivamente por lo dispuesto en el presente Decreto y en el
 Reglamento para su Gobierno Interior, conforme a las bases siguientes:
 I. La Asamblea Constituyente de la Ciudad de México tendrá las facultades siguientes:
@@ -15535,11 +15573,13 @@ en las funciones de los Poderes de la Unión ni de los órganos del Distrito Fed
 facultad relacionada con el ejercicio del gobierno de la entidad. Tampoco podrá realizar pronunciamientos
 o tomar acuerdos respecto del ejercicio de los Gobiernos Federal o del Distrito Federal o de cualquier otro
 poder federal o local.
-ARTÍCULO DÉCIMO.- El Congreso de la Unión, en la expedición de las leyes a que se refiere el
+
+**ARTÍCULO DÉCIMO.-** El Congreso de la Unión, en la expedición de las leyes a que se refiere el
 párrafo tercero del Apartado B y el primer párrafo del Apartado C del artículo 122, deberá prever que las
 mismas entren en vigor en la fecha en que inicie la vigencia de la Constitución Política de la Ciudad de
 México.
-ARTÍCULO DÉCIMO PRIMERO.- Todos los inmuebles ubicados en la Ciudad de México que estén
+
+**ARTÍCULO DÉCIMO** PRIMERO.- Todos los inmuebles ubicados en la Ciudad de México que estén
 destinados al servicio que prestan los poderes de la Federación, así como cualquier otro bien afecto a
 éstos, continuarán bajo la jurisdicción de los poderes federales.
 
@@ -15547,10 +15587,11 @@ CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 Últimas Reformas DOF 02-06-2026
 
-ARTÍCULO DÉCIMO SEGUNDO.- Los jueces y magistrados del Tribunal Superior de Justicia del
+**ARTÍCULO DÉCIMO** SEGUNDO.- Los jueces y magistrados del Tribunal Superior de Justicia del
 Distrito Federal se integrarán en el Poder Judicial de la Ciudad de México, una vez que éste inicie sus
 funciones, de conformidad con lo que establezca la Constitución Política de dicha entidad.
-ARTÍCULO DÉCIMO TERCERO.- Los recursos de revisión interpuestos contra las resoluciones del
+
+**ARTÍCULO DÉCIMO** TERCERO.- Los recursos de revisión interpuestos contra las resoluciones del
 Tribunal de lo Contencioso Administrativo del Distrito Federal, de conformidad con lo dispuesto por el
 artículo 104, fracción III de esta Constitución, que se encuentren pendientes de resolución a la entrada en
 vigor del presente Decreto, continuarán el trámite que corresponda conforme al régimen jurídico aplicable
@@ -15559,16 +15600,20 @@ En tanto en la Ciudad de México no se emitan las disposiciones legales para la 
 sustanciación de los recursos de revisión interpuestos contra las resoluciones del Tribunal de Justicia
 Administrativa de la Ciudad de México, dichos recursos serán conocidos y resueltos por los Tribunales de
 la Federación, en los términos de la fracción III del artículo 104 constitucional.
-ARTÍCULO DÉCIMO CUARTO.- A partir de la fecha de entrada en vigor de este Decreto, todas las
+
+**ARTÍCULO DÉCIMO** CUARTO.- A partir de la fecha de entrada en vigor de este Decreto, todas las
 referencias que en esta Constitución y demás ordenamientos jurídicos se hagan al Distrito Federal,
 deberán entenderse hechas a la Ciudad de México.
-ARTÍCULO DÉCIMO QUINTO.- Los ciudadanos que hayan ocupado la titularidad del Departamento
+
+**ARTÍCULO DÉCIMO** QUINTO.- Los ciudadanos que hayan ocupado la titularidad del Departamento
 del Distrito Federal, de la Jefatura de Gobierno o del Ejecutivo local, designados o electos, en ningún
 caso y por ningún motivo podrán ocupar el de Jefe de Gobierno de la Ciudad de México, ni con el
 carácter de interino, provisional, sustituto o encargado de despacho.
-ARTÍCULO DÉCIMO SEXTO.- Las Alcaldías accederán a los recursos de los fondos y ramos
+
+**ARTÍCULO DÉCIMO** SEXTO.- Las Alcaldías accederán a los recursos de los fondos y ramos
 federales en los términos que prevea la Ley de Coordinación Fiscal.
-ARTÍCULO DÉCIMO SÉPTIMO.- Dentro de las funciones que correspondan a las Alcaldías, la
+
+**ARTÍCULO DÉCIMO** SÉPTIMO.- Dentro de las funciones que correspondan a las Alcaldías, la
 Constitución Política de la Ciudad de México y las leyes locales contemplarán, al menos, aquéllas que la
 Ley Orgánica de la Administración Pública del Distrito Federal vigente a la entrada en vigor del presente
 Decreto, señala para los titulares de los órganos político-administrativos de las demarcaciones
@@ -15592,7 +15637,7 @@ DECRETO por el que se adiciona la fracción XXIX-X al artículo 73 de la Constit
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 25 de julio de 2016
 
-ARTÍCULO ÚNICO.- Se adiciona la fracción XXIX-X al artículo 73 de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se adiciona la fracción XXIX-X al artículo 73 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ………
 
@@ -15613,7 +15658,7 @@ DECRETO por el que se reforma el párrafo segundo del artículo 11 de la Constit
 Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 15 de agosto de 2016
 
-ARTÍCULO ÚNICO.- Se reforma el párrafo segundo del artículo 11 de la Constitución Política de los
+**ARTÍCULO ÚNICO.-** Se reforma el párrafo segundo del artículo 11 de la Constitución Política de los
 Estados Unidos Mexicanos, para quedar como sigue:
 ……….
 
@@ -16479,7 +16524,7 @@ Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad e
 Géneros.
 Publicado en el Diario Oficial de la Federación el 6 de junio de 2019
 
-ARTÍCULO ÚNICO. Se reforman: la fracción VII del apartado A del artículo 2; el párrafo primero del
+**ARTÍCULO ÚNICO.** Se reforman: la fracción VII del apartado A del artículo 2; el párrafo primero del
 artículo 4; el párrafo primero y la fracción II del artículo 35; los párrafos primero y segundo de la fracción I
 del artículo 41; el artículo 52; los párrafos primero y segundo del artículo 53; los párrafos primero y
 segundo del artículo 56; el tercer párrafo del artículo 94; el párrafo primero de la fracción I del artículo
