@@ -3,21 +3,21 @@ type: ley-federal
 sigla: LIGIE_2022
 slug: LIGIE_2022
 titulo: "Ley de los Impuestos Generales de Importación y de Exportación"
-ultima_reforma: "2026-04-23"
+ultima_reforma: "2026-10-13"
 fuente: "DOF / Cámara de Diputados"
 fuente_pdf: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf
-articulos: 28
+articulos: 29
 tags: [ley, federal]
 ---
 
 # Ley de los Impuestos Generales de Importación y de Exportación
-> Última reforma publicada DOF 23-04-2026
+> Última reforma publicada DOF 13-10-2026
 
 Nueva Ley publicada en el Diario Oficial de la Federación el 7 de junio de 2022
 TEXTO VIGENTE
 Última reforma publicada DOF 29-12-2025
 
-Fracciones arancelarias de la Tarifa de la Ley modificadas por Decreto DOF 23-04-2026
+Fracciones arancelarias de la Tarifa de la Ley modificadas por Decreto DOF 13-10-2026
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la
 República.
@@ -97253,7 +97253,7 @@ Para acoplarse en bicicletas, con
 potencia hasta 1.5 CP y con peso unitario
 inferior a 6 kg.
 Los demás.
-De cilindrada superior a 250 cm 3 pero
+De cilindrada superior a 250 cm3 pero
 inferior o igual a 1,000 cm 3.
 De cilindrada superior a 250 cm 3 pero
 inferior o igual a 1,000 cm 3.
@@ -109435,7 +109435,7 @@ frecuencia de imagen superior a 225,000 cuadros por segundo.
 
 La subpartida 8525.82 se refiere a las cámaras resistentes a radiaciones que están diseñadas o
 reforzadas para que puedan funcionar en entornos sujetos a radiaciones elevadas. Estas
-cámaras están diseñadas para soportar una dosis total de radiación superior a 50 × 103 Gy
+cámaras están diseñadas para soportar una dosis total de radiación superior a 50 × 10 3 Gy
 (silicio) (5 × 106 rad (silicio)) sin degradación operativa.
 
 3.
@@ -118369,8 +118369,7 @@ tres
 puntos,
 para
 acoplamiento de implementos agrícolas,
-incompletos
-o sin terminar, con
+incompletos o sin terminar, con
 transmisión manual sincronizada de 12
 por 12 e inversor de marcha, que no
 incorpore al menos nueve de los
@@ -133655,8 +133654,6 @@ LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
 9803.00.01
 
-9803.00.02
-
 Fomento de la Industria Manufacturera,
 Maquiladora
 y
@@ -133713,6 +133710,36 @@ fabricación de vehículos conforme a la
 Ley Aduanera, siempre que se ajusten a
 los lineamientos que establezca la
 Secretaría de Economía.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+Ex.
+
+Ex.
+
+Kg
+
+10
+
+Ex.
+
+Arancel modificado con vigencia temporal DOF 13-10-2026
+(antes Imp. 10)
+
+9803.00.02
+
 Partes y componentes para el ensamble
 de camiones, autobuses integrales y
 tracto-camiones cuando se trate de
@@ -133721,34 +133748,10 @@ terminal que cuenten con autorización de
 depósito fiscal para ensamble y
 fabricación de vehículos conforme a la
 Ley Aduanera, siempre que se ajusten a
-los lineamientos que establezca la
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-Ex.
-
-Ex.
-
-Kg
-
-10
-
-Ex.
-
-Kg
-
-10
-
-Ex.
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
+los lineamientos que establezca
 Secretaría de Economía.
 
 98.04
@@ -133769,6 +133772,8 @@ Secretaría de Economía.
 9806.00.02
 
 9806.00.03
+
+la
 
 Importaciones o exportaciones de
 equipajes de pasajeros o menajes de
@@ -133839,7 +133844,6 @@ lineamientos
 establecidos
 por
 la
-Secretaría de Economía y el Consejo
 
 Kg
 Kg
@@ -133882,6 +133886,7 @@ LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
 9806.00.06
 
+Secretaría de Economía y el Consejo
 Nacional de Ciencia y Tecnología.
 Equipos y artículos reconocibles como
 destinados exclusivamente a compensar
@@ -133996,10 +134001,10 @@ elaboración, transformación o reparación
 en el recinto fiscalizado estratégico,
 cuando se extraigan del recinto deberán
 ser clasificadas en términos de la Tarifa
-de esta Ley y cumplir, en su caso, con las
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
+de esta Ley y cumplir, en su caso, con las
 regulaciones
 y
 restricciones
@@ -138965,5 +138970,50 @@ LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 Único. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la
 Federación.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México, a 23 de abril de 2026.Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- Secretario de
+Hacienda y Crédito Público, Édgar Abraham Amador Zamora.- Rúbrica.- Secretario de Economía,
+Marcelo Luis Ebrard Casaubon.- Rúbrica.
+
+LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
+
+DECRETO por el que se modifica la Tarifa de la Ley de los Impuestos Generales de
+Importación y de Exportación.
+Publicado en el Diario Oficial de la Federación el 13 de octubre de 2026
+
+**Artículo Único.** Se modifica temporalmente el arancel a la importación de la fracción arancelaria de
+la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario
+Oficial de la Federación el 7 de junio de 2022 y sus modificaciones posteriores, para quedar como sigue:
+
+CÓDIGO
+
+DESCRIPCIÓN
+
+UNIDAD
+
+9803.00.01
+
+Partes y componentes para el ensamble de
+automóviles cuando se trate de empresas de
+la industria automotriz terminal que cuenten
+con autorización de depósito fiscal para
+ensamble y fabricación de vehículos conforme
+a la Ley Aduanera, siempre que se ajusten a
+los lineamientos que establezca la Secretaría
+de Economía.
+
+Kg
+
+CUOTA (ARANCEL)
+IMPUESTO IMPUESTO
+DE IMP.
+DE EXP.
+
+Ex.
+
+Ex.
+
+## TRANSITORIO
+ÚNICO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación y tendrá una vigencia de cinco años contados a partir de su entrada en vigor.
+Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México, a 09 de octubre de 2026.Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- Secretario de
 Hacienda y Crédito Público, Édgar Abraham Amador Zamora.- Rúbrica.- Secretario de Economía,
 Marcelo Luis Ebrard Casaubon.- Rúbrica.
